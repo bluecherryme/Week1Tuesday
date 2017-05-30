@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800');
+
+.main_section{
+    height: 100vh;
+    width:100%;
+    background: #2C2B30;
+    padding-top: 260px;
+}
+
+
+.intro_text{
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    margin-bottom: 32px;
+}
+
+.main_cta{
+    width: 229px;
+    height: 53px;
+    background: #2C2B30;
+    color:#C46BD6;
+    border: 2px solid #C46BD6;
+    border-radius: 9px;
+    
+}
